@@ -1,0 +1,6 @@
+sqlglot>=26
+duckdb>=1.4
+pyarrow>=15
+pytz
+pytest>=8
+trino>=0.330

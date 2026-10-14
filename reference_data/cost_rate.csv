@@ -1,0 +1,3 @@
+valid_from,valid_to,cpu_hour_usd,memory_gb_hour_usd,scanned_tb_usd
+2024-01-01,2026-09-01,0.045,0.0050,1.50
+2026-09-01,,0.040,0.0045,1.50

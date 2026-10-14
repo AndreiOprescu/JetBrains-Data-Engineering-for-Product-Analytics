@@ -1,0 +1,7 @@
+team_id,team_name,department,cost_center,is_active
+data-platform,Data Platform,Engineering,CC-100,true
+product-analytics,Product Analytics,Product,CC-200,true
+ml-recsys,ML Recommendations,Engineering,CC-110,true
+marketing-analytics,Marketing Analytics,Marketing,CC-300,true
+finance-bi,Finance BI,Finance,CC-400,true
+sales-ops,Sales Operations,Sales,CC-500,true

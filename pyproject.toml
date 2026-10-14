@@ -1,0 +1,18 @@
+[project]
+name = "metadwh"
+version = "0.1.0"
+description = "Meta DWH: usage statistics of Iceberg tables queried through Trino"
+requires-python = ">=3.10"
+dependencies = [
+    "sqlglot>=26",      # Trino -> DuckDB transpilation for the local demo/tests
+    "duckdb>=1.4",      # local engine (MERGE support)
+    "pyarrow>=15",      # bulk loading of synthetic events into DuckDB
+]
+
+[project.optional-dependencies]
+trino = ["trino>=0.330"]
+dev = ["pytest>=8"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

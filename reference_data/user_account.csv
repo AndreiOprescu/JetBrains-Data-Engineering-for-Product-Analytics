@@ -1,0 +1,24 @@
+user_name,account_type,display_name,is_active
+anna.kowalski,human,Anna Kowalski,true
+ben.martin,human,Ben Martin,true
+chen.li,human,Chen Li,true
+daria.ivanova,human,Daria Ivanova,true
+emil.novak,human,Emil Novak,true
+fatima.zahra,human,Fatima Zahra,true
+george.white,human,George White,true
+hana.sato,human,Hana Sato,true
+ivan.petrov,human,Ivan Petrov,true
+julia.schmidt,human,Julia Schmidt,true
+kenji.mori,human,Kenji Mori,true
+lars.olsen,human,Lars Olsen,true
+maria.garcia,human,Maria Garcia,true
+nina.berg,human,Nina Berg,true
+oscar.lind,human,Oscar Lind,true
+paula.costa,human,Paula Costa,true
+quentin.roux,human,Quentin Roux,true
+rosa.mendes,human,Rosa Mendes,true
+svc_airflow,service,Airflow scheduler,true
+svc_dbt_finance,service,dbt finance models,true
+svc_ml_pipeline,service,ML feature pipeline,true
+svc_reverse_etl,service,Reverse ETL to CRM,true
+svc_superset,service,Superset (impersonating end users),true

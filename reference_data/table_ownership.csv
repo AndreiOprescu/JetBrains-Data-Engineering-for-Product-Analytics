@@ -1,0 +1,11 @@
+catalog_name,schema_name,table_name,owner_team_id,data_domain
+lake,events,*,data-platform,telemetry
+lake,events,ide_usage,product-analytics,telemetry
+lake,product,*,product-analytics,product
+lake,marketing,*,marketing-analytics,marketing
+lake,finance,*,finance-bi,finance
+lake,ml,*,ml-recsys,machine-learning
+lake,staging,*,data-platform,staging
+lake,legacy,events_2019,data-platform,telemetry
+lake,legacy,licenses_v1,product-analytics,product
+crm,public,*,sales-ops,sales

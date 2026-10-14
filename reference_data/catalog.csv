@@ -1,0 +1,4 @@
+catalog_name,connector_type,is_data_lake
+lake,iceberg,true
+crm,postgresql,false
+system,system,false
